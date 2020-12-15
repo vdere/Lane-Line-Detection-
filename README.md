@@ -195,4 +195,4 @@ if __name__ == '__main__':
     cap.release()
 ```
 
-![Analyzed Data](https://github.com/vdere/covid-19/blob/main/covid-19-analysis-output.gif)
+![Analyzed Data](https://github.com/vdere/Lane-Line-Detection-/blob/main/lane-line-detection-ml-project-2.gif)
